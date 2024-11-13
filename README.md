@@ -1,6 +1,14 @@
 
-Hello there!
+### Hi，很高兴遇见你 👋
 
+- 🧡 AI研究人员，专注于机器学习和深度学习 Focusing on Machine Learning and Deep Learning
+- 🔨 复现各类深度学习算法
+- 🍬 
+- 🥩 
+- 📯 
+- 📚 
+- 🍱 我的知乎（Zhihu） https://www.zhihu.com/people/la-la-la-xiao-la-la
+- 
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-blueviolet)](https://fangggf.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Profile-9cf)](https://www.semanticscholar.org/author/Gongfan-Fang/150110431)
