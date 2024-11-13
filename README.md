@@ -14,9 +14,9 @@
 [![Page Views](https://komarev.com/ghpvc/?username=vainf&label=Page%20Views&color=ad2352)](https://github.com/Qixxxxx)
 
 
-<img src="https://user-images.githubusercontent.com/18592211/231067736-8638d6f4-2307-4c03-a566-aa86a1964d3d.png" width="15%"></img>
-<img src="https://user-images.githubusercontent.com/18592211/231067910-65b031ea-473d-4675-81b6-92ed9b0510cc.png" width="15%"></img>
-<img src="https://user-images.githubusercontent.com/18592211/231068115-f263b841-ad0c-483b-ba0a-9004fc983317.png" width="15%"></img>
+<img src="https://github.com/Qixxxxx/Qixxxxx/blob/main/Snipaste_2024-11-13_10-41-09.png" width="15%"></img>
+<img src="https://github.com/Qixxxxx/Qixxxxx/blob/main/Snipaste_2024-11-13_10-41-31.png" width="15%"></img>
+<img src="https://github.com/Qixxxxx/Qixxxxx/blob/main/Snipaste_2024-11-13_10-41-55.png" width="15%"></img>
 
 
 <picture>
